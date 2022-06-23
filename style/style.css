@@ -263,11 +263,13 @@ body {
     margin: 26px;
   }
   .desktop-img {
-    width: 100%;
-
-    transform: translate(196px, -86px);
+    width: 961px;
+    transform: translate(264px, -184px);
     overflow: hidden;
     z-index: -1;
+    
+      
+   
   }
 
   .header-content {
