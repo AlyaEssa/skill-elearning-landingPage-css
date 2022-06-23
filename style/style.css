@@ -263,7 +263,7 @@ body {
     margin: 26px;
   }
   .desktop-img {
-    width: 94%;
+    width: 100%;
 
     transform: translate(196px, -86px);
     overflow: hidden;
