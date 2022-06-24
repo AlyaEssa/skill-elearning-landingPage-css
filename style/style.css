@@ -137,6 +137,8 @@ body {
 
 /* mobile */
 @media (max-width: 576px) {
+  
+ 
   .desktop-img {
     display: none;
   }
@@ -159,6 +161,7 @@ body {
 
 /* tablet  */
 @media (min-width: 577px) and (max-width: 976px) {
+  
   .desktop-img {
     display: none;
   }
@@ -238,6 +241,9 @@ body {
 }
 /* desktop */
 @media (min-width: 977px) {
+  .hero-img {
+    height: 544px;
+  }
   .mobile-img {
     display: none;
   }
@@ -265,6 +271,7 @@ body {
   .desktop-img {
     width: 961px;
     transform: translate(311px, -223px);
+    transform: translate(395px, -293px);
     overflow: hidden;
     z-index: -1;
     
