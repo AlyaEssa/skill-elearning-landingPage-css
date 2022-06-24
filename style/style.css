@@ -270,13 +270,9 @@ body {
   }
   .desktop-img {
     width: 961px;
-    transform: translate(311px, -223px);
-    transform: translate(395px, -293px);
+    transform: translate(250px, -286px);
     overflow: hidden;
     z-index: -1;
-    
-      
-   
   }
 
   .header-content {
