@@ -242,7 +242,7 @@ body {
 /* desktop */
 @media (min-width: 977px) {
   .hero-img {
-    height: 544px;
+    height: 560px;
   }
   .mobile-img {
     display: none;
